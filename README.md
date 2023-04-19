@@ -1,5 +1,5 @@
-# To-Do List, implemented by Svelte
-## Only add item to list and delete selected item from list are implemented now. 
+# To-Do-List, implemented by Svelte
+## In the current implementation, a new item can be added to list and a selected item can be deleted from list. 
 
 # Svelte + Vite
 
